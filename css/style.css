@@ -1,0 +1,125 @@
+  
+ body {
+  background:url("https://s10.postimg.org/5cycyv5ah/wood-texture-138.jpg") ;
+        background-size: cover;
+     background-size: 100% 100%;
+  
+} 
+.navigationborder{
+ 
+}
+h1{
+  font-size:120px;
+  font-family: 'Niconne', cursive;
+  color: black;
+  
+  padding-top:55px;
+  
+ }
+.btn-default{
+background-color:#81C784;
+  border-color: black;
+  color:black;
+  
+  
+}
+#instaicon{
+  color: red;
+}
+#facebookicon{
+  color:blue;
+}
+.price{
+  display: block;
+  margin: 0 auto;
+  padding-top:3%;
+  border-radius:20%;
+ }
+.gallery img{
+  border:3px solid #fff;
+  margin: 5px;
+}
+a.photo:hover img{
+  border:3px solid blue;
+  }
+
+
+
+/* Med req*/
+
+@media only screen and (max-width: 450px) { 
+ 
+
+  .iconsize {
+  	 font-size: 15px;
+     font-family: 'Niconne', cursive;
+  }
+   .text-center h1 {
+    font-size: 40px;
+  }
+}
+@media only screen and (min-width: 450px) { 
+
+  .iconsize {
+  	 font-size: 18px;
+  font-family: 'Niconne', cursive;
+  }
+}
+@media only screen and (min-width: 1024px) { 
+
+  .iconsize {
+  	 font-size: 25px;
+  font-family: 'Niconne', cursive;
+  }
+}
+
+    
+    /* new backgraund*/
+/*    @media only screen and (max-width: 450px) { 
+  .iconsize {
+  	 font-size: 15px;
+     font-family: 'Niconne', cursive;
+  }
+   .text-center h1 {
+    font-size: 40px;
+  }
+}
+@media only screen and (min-width: 450px) { 
+
+   .iconsize {
+  	 font-size: 18px;
+  font-family: 'Niconne', cursive;
+  }
+}
+@media only screen and (min-width: 1024px) { 
+  .iconsize {
+  	 font-size: 25px;
+  font-family: 'Niconne', cursive;
+  }
+}  */
+ 
+ 
+  }
+}
+.nav-pills {
+  font-family: 'Exo 2', sans-serif;
+  font-size: 2.0em;
+  background-color: ;
+  font-weight: 1000;
+  margin-bottom:5%;
+  padding-top: 2%;
+  opacity:;
+  border:2px solid black;
+  padding-left:%;
+  }
+}
+margin-right: 0px;
+}
+
+
+
+  
+  
+
+  
+  
